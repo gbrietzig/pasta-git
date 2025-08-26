@@ -1,0 +1,8 @@
+# Backend
+/backend/ @time-backend
+
+# Frontend
+/frontend/ @time-frontend
+
+# Data
+/data/ @time-data
